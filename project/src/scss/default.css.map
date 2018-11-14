@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAEA,GAAG,CACD,KAAK,CAHD,GAAO,CAIX,QAAM,CACJ,KAAK,CALH,GAAO,CAOX,OAAK,CACH,KAAK,CARH,GAAO,CAUX,cAAU,CACR,KAAK,CAXH,GAAO",
+"sources": ["default.scss"],
+"names": [],
+"file": "default.css"
+}
